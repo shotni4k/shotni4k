@@ -1,14 +1,15 @@
 <h1 align="center"> Hi there 👋</h1>
+
 ## I'm Sergey. I'm from Kazakhstan 🇰🇿
 ---
-<h3 align="center">About me</h3>
+  <h2 align="center">About me</h2>
 ---
 <p>
  At the moment I am learning several languages: python, golang, java script, In the future I plan to become a full-stack developer.
 </p>
 
 ---
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
